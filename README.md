@@ -3,7 +3,7 @@ jsDeliver CDN
 
 ## 介绍 
 
-#### 这是 LBTSTO自由商店 站长的一个静态资源仓库。
+##### 这是 LBTSTO自由商店 站长的一个静态资源仓库。
 
 站点： www.libertystore.one
 
