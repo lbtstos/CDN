@@ -1,5 +1,5 @@
 # CDN
-jsDeliver CDN
+libertystore cdn by jsDeliver
 
 ## 介绍 
 
